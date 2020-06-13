@@ -23,6 +23,6 @@ int main(){
         cout << sum << endl;
     }
     else{
-        cout << '-1' << endl;
+        cout << -1 << endl;
     }
 }
